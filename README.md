@@ -24,10 +24,10 @@ This project we created a junior version [Reddit](https://www.reddit.com/) calle
 You need to have this app or tools to start using it:
 * [Ruby](https://www.ruby-lang.org/en/downloads/)
 * [Rails](https://rubyonrails.org/): better to have rails version 2.6.5.
-* clone this repo ```git clone https://github.com/rindrajosia/micro-redit.git```
-* cd to the cloned folder and open with the terminal and run ```bundle install```
-* After all the [gems](https://rubygems.org/) type ```rake db:migrate```
-* Then type ```rails console```
+* Clone this repo ```git clone https://github.com/Mindo-Joseph/reddit-micro```
+* Open terminal```cd``` to the cloned folder and install gems with ```bundle install```
+* After gems install, run migrations ```bin/rake db:migrate```
+* Run rails console ```bin/rails console```
 
 ### Usage
 
